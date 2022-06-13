@@ -1,57 +1,57 @@
-Account Number,Post Date,Check,Description, Debit , Credit ,Status, Balance 
+Account Number,Post Date,Check,Description,  Debit  ,  Credit  ,Status,  Balance  
 XXXXXX1009-S81,5/31/2022,,Withdrawal TRANSACTION FEES, $45.50 ,,Posted," $1,321.13 "
 XXXXXX1009-S81,5/31/2022,,Withdrawal LOW BALANCE FEE, $6.00 ,,Posted," $1,366.63 "
 XXXXXX1009-S81,5/31/2022,,Withdrawal POS #215118617586/POS MURPHY6745ATWALMART CEDAR PARK TX Card 4969 Merchant Category Code: 5542, $86.02 ,,Posted," $1,372.63 "
 XXXXXX1009-S81,5/31/2022,,Withdrawal ACH ATT/TYPE: RETRY PYMT ID: 9864031004 CO: ATT, $789.34 ,,Posted," $1,458.65 "
 XXXXXX1009-S81,5/31/2022,,Withdrawal ACH ALLY/TYPE: ALLY PAYMT ID: 9833122002 CO: ALLY, $509.98 ,,Posted," $2,247.99 "
 XXXXXX1009-S81,5/31/2022,,Withdrawal ACH BCBS HEALTH HPS/TYPE: 8007928595 ID: 1361236610 CO: BCBS HEALTH HPS, $498.66 ,,Posted," $2,757.97 "
-XXXXXX1009-S81,5/31/2022,,Deposit Reconciled 0000032,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/31/2022,,Deposit Reconciled 0000032,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/31/2022,,"Deposit Bulk/Checks 5,144.04 Check Count 1 Deposit Number 0000032",," $5,144.04 ",Posted," $3,256.63 "
-XXXXXX1009-S81,5/31/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/31/2022,,Overdrawn ACH/ATT,, $-   ,Posted," $(1,887.41)"
-XXXXXX1009-S81,5/31/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/31/2022,,Overdrawn ACH/ALLY,, $-   ,Posted," $(1,887.41)"
-XXXXXX1009-S81,5/31/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/31/2022,,Overdrawn ACH/BCBS HEALTH HPS,, $-   ,Posted," $(1,887.41)"
-XXXXXX1009-S81,5/31/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/31/2022,,Courtesy Pay-ACH,, $-   ,Posted," $(1,887.41)"
+XXXXXX1009-S81,5/31/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/31/2022,,Overdrawn ACH/ATT,,  $-    ,Posted," $(1,887.41)"
+XXXXXX1009-S81,5/31/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/31/2022,,Overdrawn ACH/ALLY,,  $-    ,Posted," $(1,887.41)"
+XXXXXX1009-S81,5/31/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/31/2022,,Overdrawn ACH/BCBS HEALTH HPS,,  $-    ,Posted," $(1,887.41)"
+XXXXXX1009-S81,5/31/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/31/2022,,Courtesy Pay-ACH,,  $-    ,Posted," $(1,887.41)"
 XXXXXX1009-S81,5/31/2022,,Withdrawal ACH ATMOS ENERGY RCR/TYPE: UTIL PYMT ID: 9000000091 CO: ATMOS ENERGY RCR NAME: MARTHA HERNANDEZ, $30.11 ,,Posted," $(1,887.41)"
-XXXXXX1009-S81,5/28/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/28/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,857.30)"
+XXXXXX1009-S81,5/28/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/28/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,857.30)"
 XXXXXX1009-S81,5/28/2022,,Recurring Withdrawal Bill Payment - #214816901661/BP APPLE COM BILL CUPERTINO CA Card 2272 Merchant Category Code: 4899, $14.06 ,,Posted," $(1,857.30)"
-XXXXXX1009-S81,5/28/2022,,Deposit Reconciled 0000020,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/28/2022,,Deposit Reconciled 0000020,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/28/2022,,Deposit Bulk/Checks 378.88 Check Count 1 Deposit Number 0000020,, $378.88 ,Posted," $(1,843.24)"
-XXXXXX1009-S81,5/28/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/28/2022,,Overdrawn Debit,, $-   ,Posted," $(2,222.12)"
+XXXXXX1009-S81,5/28/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/28/2022,,Overdrawn Debit,,  $-    ,Posted," $(2,222.12)"
 XXXXXX1009-S81,5/28/2022,,Withdrawal Bill Payment #214827026832/BP FORTIVA 855-802-5572 GA Card 4969 Merchant Category Code: 6051, $43.85 ,,Posted," $(2,222.12)"
-XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/27/2022,,Overdrawn Debit,, $-   ,Posted," $(2,178.27)"
+XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/27/2022,,Overdrawn Debit,,  $-    ,Posted," $(2,178.27)"
 XXXXXX1009-S81,5/27/2022,,Withdrawal DEBIT CARD/DD DOORDASH WINGSTOP 855-973-1040 CA Date 05/27/22 24492152147719359624171 Card 4969Merchant Category Code: 5812, $46.29 ,,Posted," $(2,178.27)"
-XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/27/2022,,Overdrawn ACH/ATT,, $-   ,Posted," $(2,131.98)"
-XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/27/2022,,Courtesy Pay-ACH,, $-   ,Posted," $(2,131.98)"
+XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/27/2022,,Overdrawn ACH/ATT,,  $-    ,Posted," $(2,131.98)"
+XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/27/2022,,Courtesy Pay-ACH,,  $-    ,Posted," $(2,131.98)"
 XXXXXX1009-S81,5/27/2022,,Withdrawal ACH ADP PAYROLL FEES/TYPE: ADP - FEES ID: 9659605001 DATA: OT CO: ADP PAYROLL FEES, $149.79 ,,Posted," $(2,131.98)"
 XXXXXX1009-S81,5/27/2022,,Deposit ACH Texas Windstrom/TYPE: PAYABLES ID: 2746189303 DATA: DYNAMICS EFT DEPOSIT CO: Texas Windstrom,, $70.00 ,Posted," $(1,982.19)"
-XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/27/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(2,052.19)"
+XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/27/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(2,052.19)"
 XXXXXX1009-S81,5/27/2022,,Withdrawal DEBIT CARD/CCS FARMERS INSURANCE GRP 800-9985000 TX Date 05/26/22 24447722146900018108270 Card 2272Merchant Category Code: 8931, $94.80 ,,Posted," $(2,052.19)"
-XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/27/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,957.39)"
+XXXXXX1009-S81,5/27/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/27/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,957.39)"
 XXXXXX1009-S81,5/27/2022,,Withdrawal DEBIT CARD/JIFFY LUBE 2476 AUSTIN TX Date 05/26/22 24231682146837000455572 Card 2675Merchant Category Code: 7538, $89.14 ,,Posted," $(1,957.39)"
-XXXXXX1009-S81,5/26/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/26/2022,,UNPAIDNSF 2547/In the amount $500.00.,, $-   ,Posted," $(1,868.25)"
-XXXXXX1009-S81,5/26/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/26/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,868.25)"
+XXXXXX1009-S81,5/26/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/26/2022,,UNPAIDNSF 2547/In the amount $500.00.,,  $-    ,Posted," $(1,868.25)"
+XXXXXX1009-S81,5/26/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/26/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,868.25)"
 XXXXXX1009-S81,5/26/2022,,Withdrawal DEBIT CARD/DD DOORDASH MR.GATTIS 855-973-1040 CA Date 05/26/22 24492152146713225445649 Card 0718Merchant Category Code: 5812, $42.95 ,,Posted," $(1,868.25)"
-XXXXXX1009-S81,5/26/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/26/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,825.30)"
+XXXXXX1009-S81,5/26/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/26/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,825.30)"
 XXXXXX1009-S81,5/26/2022,,Withdrawal DEBIT CARD/QT 4143 CEDAR PARK TX Date 05/25/22 24692162146100852647472 Card 4969Merchant Category Code: 5541, $25.30 ,,Posted," $(1,825.30)"
-XXXXXX1009-S81,5/26/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/26/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,800.00)"
+XXXXXX1009-S81,5/26/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/26/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,800.00)"
 XXXXXX1009-S81,5/26/2022,,Withdrawal POS #214684945001/POS NST THE HOME DEPOT 002992 1200 HOME DEPOT BLVD SUNSET VALLEY TX Card 2675Merchant Category Code: 5200, $9.68 ,,Posted," $(1,800.00)"
-XXXXXX1009-S81,5/25/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/25/2022,,Courtesy Pay-Ck,, $-   ,Posted," $(1,790.32)"
+XXXXXX1009-S81,5/25/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/25/2022,,Courtesy Pay-Ck,,  $-    ,Posted," $(1,790.32)"
 XXXXXX1009-S81,5/25/2022,2548,Check 2548 Tracer 818100000306912," $2,842.13 ",,Posted," $(1,790.32)"
 XXXXXX1009-S81,5/25/2022,2546,Check 2546 Tracer 818100000307070, $240.00 ,,Posted," $1,051.81 "
 XXXXXX1009-S81,5/25/2022,,Withdrawal DEBIT CARD/SQ *LONGHORN TRAILERS &amp; E Austin TX Date 05/25/22 24692162145100068379705 Card 2675Merchant Category Code: 7513, $45.00 ,,Posted," $1,291.81 "
@@ -86,12 +86,12 @@ XXXXXX1009-S81,5/23/2022,,Withdrawal POS #214352788200/POS FUEL MAXX # 17 52450 
 XXXXXX1009-S81,5/23/2022,,Withdrawal Cash, $500.00 ,,Posted," $16,095.23 "
 XXXXXX1009-S81,5/23/2022,,Withdrawal POS #214300441195/POS 7-ELEVEN 6111 Bee Cave Rd US Austin Card 0718 Merchant Category Code: 5542, $80.66 ,,Posted," $16,595.23 "
 XXXXXX1009-S81,5/23/2022,,Withdrawal DEBIT CARD/RAISING CANE'S #115 CEDAR PARK TX Date 05/22/22 24231682143698164095981 Card 4969Merchant Category Code: 5814, $10.91 ,,Posted," $16,675.89 "
-XXXXXX1009-S81,5/23/2022,,Deposit Reconciled 0000082,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/23/2022,,Deposit Reconciled 0000082,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/23/2022,,"Deposit Bulk/Checks 3,680.50 Check Count 1 Deposit Number 0000082",," $3,680.50 ",Posted," $16,686.80 "
 XXXXXX1009-S81,5/23/2022,,Withdrawal POS #000000DGIQPT/POS AMAZON.COM*1R9133EX2 SEATTLE WA Card 4969 Merchant Category Code: 4816, $128.81 ,,Posted," $13,006.30 "
 XXXXXX1009-S81,5/23/2022,,Withdrawal DEBIT CARD/SHORT STOP #7 CEDAR PARK TX Date 05/22/22 24137462143100235709213 Card 4969Merchant Category Code: 5814, $25.03 ,,Posted," $13,135.11 "
 XXXXXX1009-S81,5/23/2022,,Withdrawal Bill Payment #214320100187/BP CULLIGAN/ULTRAPURE WAT 507-200-0820 Card 2272 Merchant Category Code: 4900, $97.32 ,,Posted," $13,160.14 "
-XXXXXX1009-S81,5/23/2022,,Deposit Reconciled 0000041,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/23/2022,,Deposit Reconciled 0000041,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/23/2022,,"Deposit Bulk/Checks 2,392.70 Check Count 2 Deposit Number 0000041",," $2,392.70 ",Posted," $13,257.46 "
 XXXXXX1009-S81,5/23/2022,,Withdrawal POS #214306419000/POS 7-ELEVEN 36589 10207 LAKE CREEK AUSTIN TX Card 2675Merchant Category Code: 5542, $125.00 ,,Posted," $10,864.76 "
 XXXXXX1009-S81,5/23/2022,,Withdrawal POS #214309289438/POS RANDALLS #3145 LEANDER TX Card 4969 Merchant Category Code: 5411, $116.70 ,,Posted," $10,989.76 "
@@ -123,71 +123,71 @@ XXXXXX1009-S81,5/21/2022,,Withdrawal ATM Fee/ATM ALI00736 1405 W WHITESTONE BLVD
 XXXXXX1009-S81,5/21/2022,,Withdrawal at ATM #214123953533/ATM ALI00736 1405 W WHITESTONE BLVD PARK TX Card 2272Merchant Category Code: 6011, $42.00 ,,Posted," $12,715.70 "
 XXXXXX1009-S81,5/21/2022,,Withdrawal POS #214119273309/POS SHELL SERVICE STATION CEDAR PARK TX Card 2272 Merchant Category Code: 5541, $41.10 ,,Posted," $12,757.70 "
 XXXXXX1009-S81,5/21/2022,,Withdrawal POS #214112958925/POS RANDALLS #3145 LEANDER TX Card 4969 Merchant Category Code: 5411, $126.07 ,,Posted," $12,798.80 "
-XXXXXX1009-S81,5/21/2022,,Deposit Reconciled 0000005,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/21/2022,,Deposit Reconciled 0000005,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/21/2022,,Withdrawal POS #214110646434/POS SHELL SERVICE STATION CEDAR PARK TX Card 2272 Merchant Category Code: 5542, $31.78 ,,Posted," $12,924.87 "
 XXXXXX1009-S81,5/21/2022,,"Withdrawal by Check/Check 05 496415 Disbursed 1,000.00"," $1,003.00 ",,Posted," $12,956.65 "
 XXXXXX1009-S81,5/21/2022,,Withdrawal Cash," $1,000.00 ",,Posted," $13,959.65 "
 XXXXXX1009-S81,5/21/2022,,"Deposit Bulk/Checks 16,020.03 Check Count 1 Deposit Number 0000005",," $16,020.03 ",Posted," $14,959.65 "
-XXXXXX1009-S81,5/21/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/21/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,060.38)"
+XXXXXX1009-S81,5/21/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/21/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,060.38)"
 XXXXXX1009-S81,5/21/2022,,Withdrawal DEBIT CARD/DOORDASH*BLAZE PIZZA WWW.DOORDASH. CA Date 05/21/22 24011342141000036061300 Card 4969Merchant Category Code: 5812, $52.30 ,,Posted," $(1,060.38)"
-XXXXXX1009-S81,5/21/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/21/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,008.08)"
+XXXXXX1009-S81,5/21/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/21/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,008.08)"
 XXXXXX1009-S81,5/21/2022,,Withdrawal POS #214158027245/POS NNT MI TIENDITA 002002 1725 OHLEN AUSTIN TX Card 2272Merchant Category Code: 5499, $2.70 ,,Posted," $(1,008.08)"
-XXXXXX1009-S81,5/21/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/21/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,005.38)"
+XXXXXX1009-S81,5/21/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/21/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,005.38)"
 XXXXXX1009-S81,5/21/2022,,Withdrawal DEBIT CARD/PRO SERVE ENTERPRISE 512-326-2811 TX Date 05/19/22 24251382140017025263446 Card 2272Merchant Category Code: 2842, $86.69 ,,Posted," $(1,005.38)"
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(918.69)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(918.69)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/DD DOORDASH WINGSTOP 855-973-1040 CA Date 05/20/22 24492152140745554817804 Card 4969Merchant Category Code: 5812, $36.88 ,,Posted, $(918.69)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(881.81)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(881.81)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/AMZN Mktp US*1X1MQ0OL1 Amzn.com/bill WA Date 05/20/22 24692162140100985975184 Card 4969Merchant Category Code: 5942, $159.60 ,,Posted, $(881.81)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(722.21)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(722.21)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/RANDALLS #3145 LEANDER TX Date 05/19/22 24231682140837001257452 Card 4969Merchant Category Code: 5411, $122.27 ,,Posted, $(722.21)
 XXXXXX1009-S81,5/20/2022,,Deposit ACH Texas Windstrom/TYPE: PAYABLES ID: 2746189303 DATA: DYNAMICS EFT DEPOSIT CO: Texas Windstrom,, $342.68 ,Posted, $(599.94)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(942.62)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(942.62)
 XXXXXX1009-S81,5/20/2022,,Withdrawal POS #214012755157/POS H-E-B GAS/CARWASH #265 CEDAR PARK TX Card 4969 Merchant Category Code: 5542, $81.71 ,,Posted, $(942.62)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(860.91)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(860.91)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/HOPDODDY CEDAR PARK CR 512-852-9406 TX Date 05/20/22 24692162140100833821358 Card 4969Merchant Category Code: 5812, $34.91 ,,Posted, $(860.91)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(826.00)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(826.00)
 XXXXXX1009-S81,5/20/2022,,Withdrawal POS #214013647516/POS WALGREENS STORE 1505 W WH CEDAR PARK TX Card 2272Merchant Category Code: 5912, $19.99 ,,Posted, $(826.00)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(806.01)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(806.01)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/LAKELINE XPRESS MART CEDAR PARK TX Date 05/19/22 24137462140001247050138 Card 2272Merchant Category Code: 5541, $12.97 ,,Posted, $(806.01)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(793.04)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(793.04)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/H-E-B #265 CEDAR PARK TX Date 05/19/22 24427332139740282205191 Card 4969Merchant Category Code: 5411, $16.71 ,,Posted, $(793.04)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(776.33)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(776.33)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/H-E-B #265 CEDAR PARK TX Date 05/19/22 24427332139740282204632 Card 4969Merchant Category Code: 5411, $48.51 ,,Posted, $(776.33)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(727.82)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(727.82)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/TST* C.R. SURF AND TURF CEDAR PARK TX Date 05/19/22 24137462139300647176375 Card 2272Merchant Category Code: 5812, $76.25 ,,Posted, $(727.82)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(651.57)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(651.57)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/KERBEY LANE CAFE-WL olo.com TX Date 05/18/22 24733092139091814000158 Card 0718Merchant Category Code: 5812, $53.25 ,,Posted, $(651.57)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(598.32)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(598.32)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/THE CROMEENS LAW FIRM HOUSTON TX Date 05/19/22 24559302139900012980249 Card 2272Merchant Category Code: 8111, $535.00 ,,Posted, $(598.32)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(63.32)
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(63.32)
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/AMZN Mktp US*1L3IG3S00 Amzn.com/bill WA Date 05/19/22 24692162139100428561461 Card 4969Merchant Category Code: 5942, $309.67 ,,Posted, $(63.32)
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $246.35 
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $246.35 
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/PAYPAL *HITECHPOWER HITEC 402-935-7733 Date 05/19/22 24492152139852983405426 Card 2272Merchant Category Code: 4816, $180.62 ,,Posted, $246.35 
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $426.97 
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $426.97 
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/PAYPAL *HITECHPOWER HITEC 402-935-7733 Date 05/19/22 24492152139852983332752 Card 2272Merchant Category Code: 4816, $90.31 ,,Posted, $426.97 
-XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $517.28 
+XXXXXX1009-S81,5/20/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/20/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $517.28 
 XXXXXX1009-S81,5/20/2022,,Withdrawal DEBIT CARD/PAYPAL *HITECHPOWER HITEC 402-935-7733 Date 05/19/22 24492152139852983510183 Card 2272Merchant Category Code: 4816, $212.50 ,,Posted, $517.28 
-XXXXXX1009-S81,5/19/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/19/2022,,Courtesy Pay-Ck,, $-   ,Posted, $729.78 
+XXXXXX1009-S81,5/19/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/19/2022,,Courtesy Pay-Ck,,  $-    ,Posted, $729.78 
 XXXXXX1009-S81,5/19/2022,2542,Check 2542 Tracer 817500000255635," $1,200.00 ",,Posted, $729.78 
 XXXXXX1009-S81,5/19/2022,2536,Check 2536 Tracer 817500000256008," $1,350.00 ",,Posted," $1,929.78 "
 XXXXXX1009-S81,5/19/2022,,Deposit Transfer From Loan 00,, $102.44 ,Posted," $3,279.78 "
@@ -207,7 +207,7 @@ XXXXXX1009-S81,5/18/2022,,Withdrawal DEBIT CARD/EL POLLO RICO 9 CEDAR PARK TX Da
 XXXXXX1009-S81,5/18/2022,,Withdrawal POS #213816386788/POS LOWE'S #2774 LEANDER TX Card 2675 Merchant Category Code: 5200, $48.63 ,,Posted," $10,526.75 "
 XXXXXX1009-S81,5/18/2022,,Withdrawal POS #213894068300/POS SUNOCO 0856051800 2501 SOUTH WATER BURNET TX Card 2272Merchant Category Code: 5541, $23.74 ,,Posted," $10,575.38 "
 XXXXXX1009-S81,5/18/2022,,Withdrawal Transfer To Loan 00, $200.00 ,,Posted," $10,599.12 "
-XXXXXX1009-S81,5/18/2022,,Deposit Reconciled 0000025,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/18/2022,,Deposit Reconciled 0000025,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/18/2022,,Deposit Bulk/Checks 299.77 Check Count 1 Deposit Number 0000025,, $299.77 ,Posted," $10,799.12 "
 XXXXXX1009-S81,5/18/2022,,Withdrawal DEBIT CARD/CITY OF SAN ANTONIO 210-207-1111 TX Date 05/18/22 24692162138100145523787 Card 4969Merchant Category Code: 9399, $161.90 ,,Posted," $10,499.35 "
 XXXXXX1009-S81,5/18/2022,,Withdrawal ACH ALLSTATE INS CO/TYPE: INS PREM ID: 1360719665 DATA: ACH.EZPR02010 S CO: ALLSTATE INS CO, $352.23 ,,Posted," $10,661.25 "
@@ -222,7 +222,7 @@ XXXXXX1009-S81,5/17/2022,,Withdrawal POS #213719939335/POS LAMBS TIRE 4155 3510 
 XXXXXX1009-S81,5/17/2022,,Withdrawal DEBIT CARD/QT 4143 CEDAR PARK TX Date 05/16/22 24692162137100416353543 Card 4969Merchant Category Code: 5541, $37.96 ,,Posted," $14,480.69 "
 XXXXXX1009-S81,5/17/2022,2537,Check 2537 Tracer 817300000201001," $1,408.00 ",,Posted," $14,518.65 "
 XXXXXX1009-S81,5/17/2022,,Withdrawal POS #213700852751/POS 7-ELEVEN 6111 Bee Cave Rd US Austin Card 2675 Merchant Category Code: 5542, $56.41 ,,Posted," $15,926.65 "
-XXXXXX1009-S81,5/17/2022,,Deposit Reconciled 0000025,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/17/2022,,Deposit Reconciled 0000025,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/17/2022,,"Deposit Bulk/Checks 3,312.45 Check Count 1 Deposit Number 0000025",," $3,312.45 ",Posted," $15,983.06 "
 XXXXXX1009-S81,5/17/2022,,Withdrawal POS #213764480101/POS NST THE HOME DEPOT 000858 7900 N FM 620 AUSTIN TX Card 2675Merchant Category Code: 5200, $30.58 ,,Posted," $12,670.61 "
 XXXXXX1009-S81,5/17/2022,,Withdrawal POS #213757855001/POS NST THE HOME DEPOT 000795 7900 N FM 620 AUSTIN TX Card 2675Merchant Category Code: 5200, $39.96 ,,Posted," $12,701.19 "
@@ -232,7 +232,7 @@ XXXXXX1009-S81,5/17/2022,,Withdrawal POS #213743560800/POS 7-ELEVEN 36630 7844 B
 XXXXXX1009-S81,5/17/2022,,Withdrawal DEBIT CARD/H-E-B #265 CEDAR PARK TX Date 05/16/22 24427332136740274131325 Card 4969Merchant Category Code: 5411, $61.08 ,,Posted," $13,454.02 "
 XXXXXX1009-S81,5/17/2022,,Recurring Withdrawal Bill Payment - #213621100908/BP HP *INSTANT INK 855-785-2777 CA Card 0001 Merchant Category Code: 5111, $27.05 ,,Posted," $13,515.10 "
 XXXXXX1009-S81,5/16/2022,2533,Check 2533 Tracer 817200000631207, $600.00 ,,Posted," $13,542.15 "
-XXXXXX1009-S81,5/16/2022,,Deposit Reconciled 0000009,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/16/2022,,Deposit Reconciled 0000009,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/16/2022,,Withdrawal Cash," $3,500.00 ",,Posted," $14,142.15 "
 XXXXXX1009-S81,5/16/2022,,Withdrawal POS #7JSKO65MLAZS/POS AMAZON.COM*1L56D0020 SEATTLE WA Card 4969 Merchant Category Code: 4816, $62.76 ,,Posted," $17,642.15 "
 XXXXXX1009-S81,5/16/2022,2539,Check 2539 Tracer 817200000700218," $2,520.00 ",,Posted," $17,704.91 "
@@ -264,7 +264,7 @@ XXXXXX1009-S81,5/14/2022,,Withdrawal POS #213500559482/POS WHOLEFDS CDP #10 5001
 XXXXXX1009-S81,5/14/2022,,Withdrawal POS #213428431500/POS C STORE-5625 WESTGATE 5625 WESTGATE AUSTIN TX Card 2272Merchant Category Code: 5542, $45.18 ,,Posted," $7,023.15 "
 XXXXXX1009-S81,5/14/2022,,Withdrawal at ATM #213400002153/ATM RBFCU 1110 N. BELL BLVD BLDG AUSTIN Card 4969 Merchant Category Code: 6011, $500.00 ,,Posted," $7,068.33 "
 XXXXXX1009-S81,5/14/2022,2532,Check 2532 Tracer 817000000196001," $3,400.00 ",,Posted," $7,568.33 "
-XXXXXX1009-S81,5/14/2022,,Deposit Reconciled 0000016,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/14/2022,,Deposit Reconciled 0000016,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/14/2022,,"Deposit Bulk/Checks 1,075.00 Check Count 2 Deposit Number 0000016",," $1,075.00 ",Posted," $10,968.33 "
 XXXXXX1009-S81,5/14/2022,,Withdrawal DEBIT CARD/WINGSTOP - 411 - MCOMM 512-996-9464 TX Date 05/13/22 24269792134001061162215 Card 4969Merchant Category Code: 5814, $16.76 ,,Posted," $9,893.33 "
 XXXXXX1009-S81,5/13/2022,,Withdrawal POS #107A7LDFC0X3/POS AMAZON.COM*1R8FV1L71 SEATTLE WA Card 4969 Merchant Category Code: 4816, $124.89 ,,Posted," $9,910.09 "
@@ -286,7 +286,7 @@ XXXXXX1009-S81,5/13/2022,,"Withdrawal DEBIT CARD/IN *KRISTY R. CORTEZ, PC 512-83
 XXXXXX1009-S81,5/13/2022,,Withdrawal DEBIT CARD/PAYPAL *HITECHPOWER HITEC 402-935-7733 Date 05/12/22 24492152132852633634489 Card 4969Merchant Category Code: 4816, $823.43 ,,Posted," $19,173.73 "
 XXXXXX1009-S81,5/13/2022,,Withdrawal POS #213200995320/POS 7-ELEVEN 6111 Bee Cave Rd US Austin Card 0718 Merchant Category Code: 5542, $40.03 ,,Posted," $19,997.16 "
 XXXXXX1009-S81,5/13/2022,,Withdrawal POS #213200998436/POS 7-ELEVEN 6111 BEE CAVE RD US AUSTIN Card 0718 Merchant Category Code: 5541, $10.93 ,,Posted," $20,037.19 "
-XXXXXX1009-S81,5/12/2022,,Deposit Reconciled 0000030,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/12/2022,,Deposit Reconciled 0000030,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/12/2022,,"Withdrawal Transfer/To HERNANDEZ,MARTHA 331014 Loan 02", $422.81 ,,Posted," $20,048.12 "
 XXXXXX1009-S81,5/12/2022,,Withdrawal Cash," $1,500.00 ",,Posted," $20,470.93 "
 XXXXXX1009-S81,5/12/2022,,"Deposit Bulk/Checks 3,680.50 Check Count 1 Deposit Number 0000030",," $3,680.50 ",Posted," $21,970.93 "
@@ -318,26 +318,26 @@ XXXXXX1009-S81,5/12/2022,,Uncollected Fee/Due since 05/04/22 - Courtesy Pay-Ck, 
 XXXXXX1009-S81,5/12/2022,,Uncollected Fee/Due since 05/04/22 - Courtesy Pay-Ck, $34.00 ,,Posted," $19,140.43 "
 XXXXXX1009-S81,5/11/2022,,Withdrawal POS #213153959320/POS NNT LA MEXICANA MAR000316 900 EAST PALM VALLEY BO ROUND ROCK TX Card 2272Merchant Category Code: 5411, $19.47 ,,Posted," $19,174.43 "
 XXXXXX1009-S81,5/11/2022,,Withdrawal POS #213100729179/POS WM SUPERCENTER # Wal-Mart Super CEDAR PARK TX Card 4969Merchant Category Code: 5411, $152.20 ,,Posted," $19,193.90 "
-XXXXXX1009-S81,5/11/2022,,Deposit Reconciled 0000062,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/11/2022,,Deposit Reconciled 0000062,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/11/2022,,Withdrawal Cash," $5,000.00 ",,Posted," $19,346.10 "
 XXXXXX1009-S81,5/11/2022,,"Deposit Bulk/Checks 23,462.10 Check Count 13 Deposit Number 0000062",," $23,462.10 ",Posted," $24,346.10 "
 XXXXXX1009-S81,5/11/2022,,"Withdrawal Transfer/To HERNANDEZ,MARTHA 331014 Loan 02", $24.97 ,,Posted, $884.00 
 XXXXXX1009-S81,5/11/2022,,Recurring Withdrawal Bill Payment - #213128700873/BP ADOBE ACROPRO SUBS 408-536-6000 CA Card 0001 Merchant Category Code: 5734, $16.23 ,,Posted, $908.97 
-XXXXXX1009-S81,5/11/2022,,Deposit Reconciled 0000016,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/11/2022,,Deposit Reconciled 0000016,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/11/2022,,Deposit Bulk/Checks 920.13 Check Count 1 Deposit Number 0000016,, $920.13 ,Posted, $925.20 
-XXXXXX1009-S81,5/11/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/11/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $5.07 
+XXXXXX1009-S81,5/11/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/11/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $5.07 
 XXXXXX1009-S81,5/11/2022,,Withdrawal DEBIT CARD/TEXASGASSERVICE 800-700-2443 OK Date 05/10/22 24492152130719265773574 Card 0718Merchant Category Code: 4900, $44.57 ,,Posted, $5.07 
-XXXXXX1009-S81,5/11/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/11/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $49.64 
+XXXXXX1009-S81,5/11/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/11/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $49.64 
 XXXXXX1009-S81,5/11/2022,,Withdrawal DEBIT CARD/DOG WASTE DEPOT.COM 856-495-5102 CA Date 05/11/22 24692162131100187713145 Card 2272Merchant Category Code: 2842, $288.94 ,,Posted, $49.64 
-XXXXXX1009-S81,5/11/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/11/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $338.58 
+XXXXXX1009-S81,5/11/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/11/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $338.58 
 XXXXXX1009-S81,5/11/2022,,Withdrawal DEBIT CARD/CEDAR PARK OBGYN ASSOC 512-5287385 TX Date 05/10/22 24755422130271303775202 Card 2272Merchant Category Code: 8011, $64.00 ,,Posted, $338.58 
-XXXXXX1009-S81,5/10/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/10/2022,,Courtesy Pay-ACH,, $-   ,Posted, $402.58 
+XXXXXX1009-S81,5/10/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/10/2022,,Courtesy Pay-ACH,,  $-    ,Posted, $402.58 
 XXXXXX1009-S81,5/10/2022,,Withdrawal ACH IRS/TYPE: USATAXPYMT ID: 3387702000 CO: IRS NAME: SALVADOR E &amp; MARTHA G," $2,500.00 ",,Posted, $402.58 
-XXXXXX1009-S81,5/10/2022,,Deposit Reconciled 0000029,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/10/2022,,Deposit Reconciled 0000029,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/10/2022,,"Deposit Bulk/Checks 2,849.14 Check Count 1 Deposit Number 0000029",," $2,849.14 ",Posted," $2,902.58 "
 XXXXXX1009-S81,5/10/2022,2525,Check 2525 Tracer 000000000507700," $1,442.50 ",,Posted, $53.44 
 XXXXXX1009-S81,5/10/2022,,Withdrawal POS #213010282087/POS SHELL SERVICE STATION AUSTIN TX Card 2675 Merchant Category Code: 5542, $69.17 ,,Posted," $1,495.94 "
@@ -346,70 +346,70 @@ XXXXXX1009-S81,5/10/2022,,Deposit ACH Ternion Growth P/TYPE: SIGONFILE ID: 90008
 XXXXXX1009-S81,5/10/2022,,Deposit ACH Ternion Growth P/TYPE: SIGONFILE ID: 9000830338 DATA: 805-680-2004 CO: Ternion Growth P,, $454.65 ,Posted, $876.05 
 XXXXXX1009-S81,5/10/2022,,Deposit ACH Ternion Growth P/TYPE: SIGONFILE ID: 9000830338 DATA: 805-680-2004 CO: Ternion Growth P,, $454.65 ,Posted, $421.40 
 XXXXXX1009-S81,5/10/2022,,"Deposit/Bill.com, LLC Visa Direct CA Date 05/10/22 0 2130693998 2 5734 Card 0001Merchant Category Code: 5734",," $2,048.88 ",Posted, $(33.25)
-XXXXXX1009-S81,5/9/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/9/2022,,"UNPAIDNSF 2526/In the amount $3,000.00.",, $-   ,Posted," $(2,082.13)"
-XXXXXX1009-S81,5/9/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/9/2022,,"UNPAIDNSF 2525/In the amount $1,442.50.",, $-   ,Posted," $(2,082.13)"
-XXXXXX1009-S81,5/9/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/9/2022,,Overdrawn ACH/IRS,, $-   ,Posted," $(2,082.13)"
-XXXXXX1009-S81,5/9/2022,,Deposit Reconciled 0000024,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/9/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/9/2022,,"UNPAIDNSF 2526/In the amount $3,000.00.",,  $-    ,Posted," $(2,082.13)"
+XXXXXX1009-S81,5/9/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/9/2022,,"UNPAIDNSF 2525/In the amount $1,442.50.",,  $-    ,Posted," $(2,082.13)"
+XXXXXX1009-S81,5/9/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/9/2022,,Overdrawn ACH/IRS,,  $-    ,Posted," $(2,082.13)"
+XXXXXX1009-S81,5/9/2022,,Deposit Reconciled 0000024,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/9/2022,,Deposit Bulk/Checks 936.37 Check Count 1 Deposit Number 0000024,, $936.37 ,Posted," $(2,082.13)"
-XXXXXX1009-S81,5/9/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/9/2022,,Overdrawn ACH/AMERICAN GEN LIF,, $-   ,Posted," $(3,018.50)"
+XXXXXX1009-S81,5/9/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/9/2022,,Overdrawn ACH/AMERICAN GEN LIF,,  $-    ,Posted," $(3,018.50)"
 XXXXXX1009-S81,5/6/2022,2520,Check 2520 Tracer 816200000380001, $892.50 ,,Posted," $(3,018.50)"
 XXXXXX1009-S81,5/6/2022,,Withdrawal Courtesy Pay fee, $34.00 ,,Posted," $(2,126.00)"
-XXXXXX1009-S81,5/6/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/6/2022,,Overdrawn Debit,, $-   ,Posted," $(2,092.00)"
+XXXXXX1009-S81,5/6/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/6/2022,,Overdrawn Debit,,  $-    ,Posted," $(2,092.00)"
 XXXXXX1009-S81,5/6/2022,,Withdrawal DEBIT CARD/FYF*FROMYOUFLOWERS 800-838-8853 CT Date 05/06/22 24692162126100373900271 Card 4969Merchant Category Code: 5992, $89.79 ,,Posted," $(2,092.00)"
-XXXXXX1009-S81,5/6/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/6/2022,,Overdrawn Debit,, $-   ,Posted," $(2,002.21)"
+XXXXXX1009-S81,5/6/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/6/2022,,Overdrawn Debit,,  $-    ,Posted," $(2,002.21)"
 XXXXXX1009-S81,5/6/2022,,Withdrawal DEBIT CARD/THE CROMEENS LAW FIRM HOUSTON TX Date 05/05/22 24559302125900012079170 Card 2272Merchant Category Code: 8111, $620.00 ,,Posted," $(2,002.21)"
-XXXXXX1009-S81,5/6/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/6/2022,,Overdrawn Debit,, $-   ,Posted," $(1,382.21)"
+XXXXXX1009-S81,5/6/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/6/2022,,Overdrawn Debit,,  $-    ,Posted," $(1,382.21)"
 XXXXXX1009-S81,5/6/2022,,Recurring Withdrawal DEBIT CARD/APPLE.COM/BILL 408-974-1010 CA Date 05/05/22 24430992125828326836212 Card 2272Merchant Category Code: 5735, $2.99 ,,Posted," $(1,382.21)"
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,UNPAIDNSF 2522/In the amount $850.00.,, $-   ,Posted," $(1,379.22)"
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,"UNPAIDNSF 2521/In the amount $2,800.00.",, $-   ,Posted," $(1,379.22)"
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,379.22)"
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,UNPAIDNSF 2522/In the amount $850.00.,,  $-    ,Posted," $(1,379.22)"
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,"UNPAIDNSF 2521/In the amount $2,800.00.",,  $-    ,Posted," $(1,379.22)"
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,379.22)"
 XXXXXX1009-S81,5/5/2022,,Withdrawal POS #212500086915/POS 7-ELEVEN 17510 Judson Rd US San Antonio TX Card 4969Merchant Category Code: 5542, $1.24 ,,Posted," $(1,379.22)"
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,, $-   ,Posted," $(1,377.98)"
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,,  $-    ,Posted," $(1,377.98)"
 XXXXXX1009-S81,5/5/2022,,Withdrawal POS #212514710491/POS WALGREENS STORE 1505 W WH CEDAR PARK TX Card 2272Merchant Category Code: 5912, $39.99 ,,Posted," $(1,377.98)"
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-ACH,, $-   ,Posted," $(1,337.99)"
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-ACH,,  $-    ,Posted," $(1,337.99)"
 XXXXXX1009-S81,5/5/2022,,Withdrawal ACH FARMERS INS EXCH/TYPE: INSPAYMENT ID: 2432215866 DATA: BILL PAYMENT CO: FARMERS INS EXCH," $1,005.33 ",,Posted," $(1,337.99)"
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-ACH,, $-   ,Posted, $(332.66)
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-ACH,,  $-    ,Posted, $(332.66)
 XXXXXX1009-S81,5/5/2022,,Withdrawal ACH *LINCOLN NATLIFE/TYPE: PREMPAYMNT ID: 3504728231 DATA: 0018400TER CO: *LINCOLN NATLIFE, $105.20 ,,Posted, $(332.66)
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-ACH,, $-   ,Posted, $(227.46)
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-ACH,,  $-    ,Posted, $(227.46)
 XXXXXX1009-S81,5/5/2022,,Withdrawal ACH INTUIT 32275995/TYPE: TRAN FEE ID: 9215986202 CO: INTUIT 32275995, $19.38 ,,Posted, $(227.46)
 XXXXXX1009-S81,5/5/2022,,Deposit ACH INTUIT 66651495/TYPE: DEPOSIT ID: 9215986202 CO: INTUIT 66651495,, $562.74 ,Posted, $(208.08)
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $(770.82)
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $(770.82)
 XXXXXX1009-S81,5/5/2022,,Withdrawal DEBIT CARD/A &amp; A AUTOMECHANIC SERVIC ROUND ROCK TX Date 05/04/22 24559302124900010100037 Card 2272Merchant Category Code: 7538," $1,595.26 ",,Posted, $(770.82)
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $824.44 
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $824.44 
 XXXXXX1009-S81,5/5/2022,,Withdrawal DEBIT CARD/WINGSTOP - 411 - MCOMM 512-996-9464 TX Date 05/04/22 24269792125001039284464 Card 4969Merchant Category Code: 5814, $37.40 ,,Posted, $824.44 
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $861.84 
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $861.84 
 XXXXXX1009-S81,5/5/2022,,Withdrawal DEBIT CARD/GATTIS PIZZA CEDAR PARK CEDAR PARK TX Date 05/04/22 24632692125001009834282 Card 4969Merchant Category Code: 5812, $25.05 ,,Posted, $861.84 
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $886.89 
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $886.89 
 XXXXXX1009-S81,5/5/2022,,Withdrawal DEBIT CARD/TEXACO 0359729 CEDAR PARK TX Date 05/04/22 24692162124100035764059 Card 2272Merchant Category Code: 5542, $54.36 ,,Posted, $886.89 
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $941.25 
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $941.25 
 XXXXXX1009-S81,5/5/2022,,Withdrawal DEBIT CARD/MCDONALD'S F10171 CEDAR PARK TX Date 05/04/22 24427332124720241747126 Card 2272Merchant Category Code: 5814, $13.06 ,,Posted, $941.25 
-XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,, $-   ,Posted, $954.31 
+XXXXXX1009-S81,5/5/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/5/2022,,Courtesy Pay-Dbt,,  $-    ,Posted, $954.31 
 XXXXXX1009-S81,5/5/2022,,Withdrawal DEBIT CARD/GREAT AMERICAN COOKIES AN LEANDER TX Date 05/03/22 24207852124030601465522 Card 4969Merchant Category Code: 5499, $20.96 ,,Posted, $954.31 
-XXXXXX1009-S81,5/4/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/4/2022,,Courtesy Pay-Ck,, $-   ,Posted, $975.27 
+XXXXXX1009-S81,5/4/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/4/2022,,Courtesy Pay-Ck,,  $-    ,Posted, $975.27 
 XXXXXX1009-S81,5/4/2022,2529,Check 2529 Tracer 816000000415245, $429.35 ,,Posted, $975.27 
-XXXXXX1009-S81,5/4/2022,,Uncollected Fee of $34.00 is Due,, $-   ,Posted, $-   
-XXXXXX1009-S81,5/4/2022,,Courtesy Pay-Ck,, $-   ,Posted," $1,404.62 "
+XXXXXX1009-S81,5/4/2022,,Uncollected Fee of $34.00 is Due,,  $-    ,Posted,  $-    
+XXXXXX1009-S81,5/4/2022,,Courtesy Pay-Ck,,  $-    ,Posted," $1,404.62 "
 XXXXXX1009-S81,5/4/2022,2518,Check 2518 Tracer 816000000415242," $1,350.00 ",,Posted," $1,404.62 "
 XXXXXX1009-S81,5/4/2022,2516,Check 2516 Tracer 816000000414025, $100.00 ,,Posted," $2,754.62 "
 XXXXXX1009-S81,5/4/2022,,Withdrawal DEBIT CARD/RANDALLS #3145 LEANDER TX Date 05/03/22 24231682124837001356015 Card 4969Merchant Category Code: 5411, $142.37 ,,Posted," $2,854.62 "
@@ -451,7 +451,7 @@ XXXXXX1009-S81,5/2/2022,2517,Check 2517 Tracer 815800000421001," $1,280.00 ",,Po
 XXXXXX1009-S81,5/2/2022,,Withdrawal POS #212213082479/POS SHELL SERVICE STATION AUSTIN TX Card 2272 Merchant Category Code: 5542, $54.32 ,,Posted," $1,832.82 "
 XXXXXX1009-S81,5/2/2022,,Withdrawal DEBIT CARD/DD DOORDASH GINOSITAL 855-973-1040 CA Date 05/02/22 24492152122713183176630 Card 4969Merchant Category Code: 5812, $44.95 ,,Posted," $1,887.14 "
 XXXXXX1009-S81,5/2/2022,,Withdrawal DEBIT CARD/TACO BELL #030096 LEANDER TX Date 05/01/22 24943002122838002760777 Card 4969Merchant Category Code: 5814, $26.10 ,,Posted," $1,932.09 "
-XXXXXX1009-S81,5/2/2022,,Deposit Reconciled 0000031,, $-   ,Posted, $-   
+XXXXXX1009-S81,5/2/2022,,Deposit Reconciled 0000031,,  $-    ,Posted,  $-    
 XXXXXX1009-S81,5/2/2022,,Deposit Bulk/Checks 270.63 Check Count 1 Deposit Number 0000031,, $270.63 ,Posted," $1,958.19 "
 XXXXXX1009-S81,5/2/2022,,Withdrawal DEBIT CARD/WALGREENS #7061 CEDAR PARK TX Date 05/01/22 24445002122000648303347 Card 2272Merchant Category Code: 5912, $62.22 ,,Posted," $1,687.56 "
 XXXXXX1009-S81,5/2/2022,,Withdrawal ACH BCBS HEALTH HPS/TYPE: 8007928595 ID: 1361236610 CO: BCBS HEALTH HPS NAME: MARTHA HERNANDEZ MARTH, $866.28 ,,Posted," $1,749.78 "
